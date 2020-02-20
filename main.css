@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#imgbox, .imgbox
+{
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+}
+
+.myimg
+{
+	width: 150px;
+	height: auto;
+}
